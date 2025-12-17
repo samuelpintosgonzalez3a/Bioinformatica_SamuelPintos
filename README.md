@@ -8,8 +8,6 @@ Este repositorio sirve como un escaparate de mis habilidades y experiencia en bi
 
 ## Scripts generales propios y elementos útiles del Máster de Bioinformática
 
-### ** ESTUDIOS PREDICTIVOS DE SIMÚLIDOS EN LA PENÍNSULA IBÉRICA **
-
 **Descripción:** Scripts de las asignaturas de R, Secuenciación y Ómicas, Introducción a la Programación Científica y Algoritmos e Inteligencia Artificial
 
 
