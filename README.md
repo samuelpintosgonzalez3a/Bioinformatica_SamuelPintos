@@ -6,7 +6,7 @@ Este repositorio sirve como un escaparate de mis habilidades y experiencia en bi
 
 ---
 
-## Scripts generales propios y elementos útiles del Máster de Bioinformática
+## 📊 Máster de Bioinformática 📊
 
 **Descripción:** Scripts de las asignaturas de R, Secuenciación y Ómicas, Introducción a la Programación Científica y Algoritmos e Inteligencia Artificial
 
@@ -15,7 +15,7 @@ Este repositorio sirve como un escaparate de mis habilidades y experiencia en bi
 * **Lenguajes:** `R` (principalmente), `HTML`
 
 
-## 🎓 Proyecto Fin de Máster (TFM)
+## 🎓 Proyecto Fin de Máster (TFM) 🎓
 
 ### ** ESTUDIOS PREDICTIVOS DE SIMÚLIDOS EN LA PENÍNSULA IBÉRICA **
 
@@ -31,7 +31,7 @@ Este repositorio sirve como un escaparate de mis habilidades y experiencia en bi
 ---
 
 
-## 🧬 Proyectos Individuales y Avances en Bioinformática
+## 🧬 Proyectos Individuales y Avances en Bioinformática 🧬
 
 Esta sección destaca proyectos que demuestran competencias específicas en la aplicación de técnicas de Machine Learning y estadísticas a datos biológicos.
 
@@ -44,7 +44,7 @@ Esta sección destaca proyectos que demuestran competencias específicas en la a
 * **[ENLACE DIRECTO AL PROYECTO 2]**
 
 
-## 💻 Habilidades Técnicas
+## 💻 Habilidades Técnicas 💻
 
 | Área | Herramientas y Lenguajes |
 | :--- | :--- |
@@ -56,7 +56,7 @@ Esta sección destaca proyectos que demuestran competencias específicas en la a
 
 ---
 
-## 📧 Contacto
+## 📧 Contacto 📧
 
 * **Perfil de LinkedIn:** www.linkedin.com/in/samuel-pintos-gonzález-ba57472a3
 * **Correo Electrónico:** samuelpintosgonzalez3a@gmail.com
