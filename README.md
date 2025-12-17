@@ -1,4 +1,4 @@
-# 🔬 Portafolio de Bioinformática y Análisis Genómico
+# 🔬 Portafolio de Bioinformática y Análisis Estadístico
 
 ¡Bienvenido/a a mi portafolio digital!
 
