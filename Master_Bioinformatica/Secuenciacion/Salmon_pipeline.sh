@@ -6,9 +6,9 @@
 # Lo primero que hay que hacer es * crear un nuevo entorno * porque con el entorno del Tema 4 hay incompatibilidades y el resultado
 # sale mal.
 
-# conda create --name salmon_env 
-# conda activate salmon_env
-# conda install -c bioconda salmon
+conda create --name salmon_env 
+conda activate salmon_env
+conda install -c bioconda salmon
 
 # Utilizamos Salmon porque lleva a cabo un pseudoalineamiento, realmente no nos importa tanto la posicion exacta base por base, sino 
 # solo saber si la lectura es compatible con alguno de los transcritos de referencia que le pasemos
