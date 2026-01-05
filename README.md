@@ -33,16 +33,6 @@ Este repositorio sirve como un escaparate de mis habilidades y experiencia en bi
 
 ## 🧬 Proyectos Individuales y Avances en Bioinformática 🧬
 
-Esta sección destaca proyectos que demuestran competencias específicas en la aplicación de técnicas de Machine Learning y estadísticas a datos biológicos.
-
-
-### **1. Análisis de Gradientes Ecológicos (TFG)**
-
-* **Descripción:** Análisis exploratorio de datos (EDA) y reducción de dimensionalidad de datos ambientales para predecir la abundancia de especies de [Organismo] (Simúlidos). Comparación de PCA y UMAP para visualizar gradientes de hábitat.
-* **Competencias Demostradas:** Preprocesamiento de datos ecológicos (escalado), Reducción de dimensionalidad (UMAP/PCA), Modelado de datos de conteo (Regresión de Poisson/Binomial Negativa).
-* **Estado:** En curso.
-* **[ENLACE DIRECTO AL PROYECTO 2]**
-
 
 ## 💻 Habilidades Técnicas 💻
 
