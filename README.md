@@ -19,9 +19,7 @@ Este repositorio sirve como un escaparate de mis habilidades y experiencia en bi
 
 ### ** ESTUDIOS PREDICTIVOS DE SIMÚLIDOS EN LA PENÍNSULA IBÉRICA **
 
-**Descripción:** [Breve resumen de 2-3 líneas sobre la pregunta principal y la metodología.]
-
-**Ejemplo:** Análisis de la regulación génica en [Organismo/Tejido] mediante la integración de datos de secuenciación de ARN (RNA-Seq) y datos de metilación (BS-Seq), utilizando métodos avanzados de reducción de dimensionalidad.
+**Descripción:** 
 
 **Tecnologías Clave:**
 * **Lenguajes:** `R` (principalmente), `HTML`
