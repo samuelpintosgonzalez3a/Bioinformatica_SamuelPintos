@@ -17,7 +17,7 @@ Este repositorio sirve como un escaparate de mis habilidades y experiencia en bi
 
 ## 🎓 Proyecto Fin de Máster (TFM) 🎓
 
-### ** ESTUDIOS PREDICTIVOS DE SIMÚLIDOS EN LA PENÍNSULA IBÉRICA **
+### **ESTUDIOS PREDICTIVOS DE SIMÚLIDOS EN LA PENÍNSULA IBÉRICA**
 
 **Descripción:** 
 
