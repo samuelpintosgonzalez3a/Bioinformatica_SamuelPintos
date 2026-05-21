@@ -29,7 +29,11 @@ Este repositorio sirve como un escaparate de mis habilidades y experiencia en bi
 ---
 
 
-## 🧬 Proyectos Individuales y Avances en Bioinformática 🧬
+## 📝📈 Proyectos Individuales  📈📝
+
+### 🐀 **Estudio predictivo de poblaciones de rata en base a los avisos ciudadanos** 🐀
+
+
 
 
 ## 💻 Habilidades Técnicas 💻
