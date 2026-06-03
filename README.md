@@ -19,12 +19,13 @@ Este repositorio sirve como un escaparate de mis habilidades y experiencia en bi
 
 ### **ESTUDIOS PREDICTIVOS DE SIMÚLIDOS EN LA PENÍNSULA IBÉRICA**
 
-**Descripción:** 
+**Descripción:** Creación de algoritmos predictivos para determinar el efecto de los tratamientos larvicidas y variables climáticas sobre la población de simúlidos que prolifera en el río Manzanares (Madrid)
+
+Estudio aplicado a nivel práctico con los datos aportados del Ayuntamiento de Madrid
 
 **Tecnologías Clave:**
 * **Lenguajes:** `R` (principalmente), `HTML`
-* **Librerías/Paquetes:** `Bioconductor` (ej. `DESeq2`, `edgeR`), `Tidyverse`, `UMAP`, `Scikit-learn`.
-* **Metodología:** Análisis de estadístidos inferenciales (Tidyverse), Reducción de Dimensionalidad (UMAP/PCA), Modelos Predictivos (Random Forest).
+* **Metodología:** Análisis de estadístidos inferenciales (Tidyverse), Reducción de Dimensionalidad gracias a análisis con VIF, Modelos Predictivos (Random Forest, Elastic Net, Mixed Models, PERMANOVA).
 * 
 ---
 
